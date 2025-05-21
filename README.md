@@ -23,3 +23,7 @@ after this, you can open a cmd in administrator and run this command : pip insta
 
 
 after this, if that doesn't work, i can't help you, sorry :(
+
+# ScreenShot
+
+![image](https://github.com/user-attachments/assets/b61f40ae-45f9-4f37-8760-42e7df32c559)
